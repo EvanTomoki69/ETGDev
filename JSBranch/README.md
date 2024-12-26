@@ -1,6 +1,6 @@
 # Yeri Universe POS
 
-# This application was made by love and non-paid developmen sessions to my lovely wife Alexandra
+# This application was made by love (and non-paid development sessions) for my lovely wife Alexandra, I hope tha I can support all your projects.
 
 # Idea
 This point of sale is very simple, it will allow to create a calculation of the cost of a product. Instead of the classic barcode, we are using the number of the product to search.
