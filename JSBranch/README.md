@@ -1,3 +1,7 @@
+# Yeri Universe POS
+
+# This application was made by love and non-paid developmen sessions to my lovely wife Alexandra
+
 # Idea
 This point of sale is very simple, it will allow to create a calculation of the cost of a product. Instead of the classic barcode, we are using the number of the product to search.
 There will be a calculator and delete bar for the products.
