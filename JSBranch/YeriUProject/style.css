@@ -1,3 +1,7 @@
+/**
+* ! Changing different styles for the browser
+**/
+
 * {
      margin: 0;
      padding: 0;
@@ -5,9 +9,67 @@
 }
 
 body {
-     font-family: Verdana;
+     font-family: sans-serif;
 }
 
+/**
+* This is a CSS Comment
+* ! When we want to select a class to modify its appearance, we add the "." character at the beginning of the class, in this case, navbar class, to select the class.
+* We can also modify the display, where we can re-arrange the data to move away freely with CSS commands
+* And we can also change the space between the body and the navbar, so we can have a spaced look of the navbar
+***/
 .navbar {
-     background-color: #fff;
+     display: flex;
+     justify-content: space-between;
+     background: rgb(232,96,227);
+     background: linear-gradient(90deg, rgba(232,96,227,1) 14%, rgba(204,5,159,1) 44%, rgba(120,0,217,1) 75%);
+     color: aliceblue;
+     padding: 75px 60px;
+     font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 35px;
+     margin-bottom: 35px;
+}
+
+.cart{
+     position: relative;
+     background-color: aliceblue;
+     color: #212121;
+     font-size: 40px;
+     padding: 5px;
+     border-radius: 20px;
+
+}
+
+.cartAmount{
+     position: absolute;
+     top: -10px;
+     right: -2px;
+     font-size: 20px;
+     background-color: red;
+     color: white;
+     padding: 3px;
+     border-radius: 5px;
+}
+
+/**
+* ! If we want to create a grid of items like in a normal shopping page, we need to add the command grid to our display element
+**/
+
+.shop{
+     display: grid;
+     grid-template-columns: repeat(5, 200px);
+     gap: 35px;
+     justify-content: center;
+}
+
+.item{
+     border: 3px solid #7a24e2;
+     border-radius: 5px;
+}
+
+.details{
+     display: flex;
+     flex-direction: column;
+     padding: 10px;
+     gap: 10px;
 }
