@@ -1,0 +1,7 @@
+.bg-white {
+     background: linear-gradient(90deg, rgb(255, 166, 252) 35%, rgb(197, 125, 255) 65%);
+     padding: 25px 70px;
+     font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 35px;
+     margin-bottom: 35px;
+}
