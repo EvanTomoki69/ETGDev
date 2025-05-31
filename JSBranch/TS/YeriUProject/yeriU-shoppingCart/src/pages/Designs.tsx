@@ -1,3 +1,3 @@
 export function Designs() {
-     return <h1>Servicios</h1>
+     return <h1>Diseños</h1>
 }
