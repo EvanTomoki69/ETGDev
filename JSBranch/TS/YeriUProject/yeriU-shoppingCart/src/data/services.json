@@ -2,85 +2,99 @@
      {
           "id": 1,
           "name": "Manicura SPA sin esmalte",
+          "description": "Manicura en baño",
           "price": 200,
-          "description": "Manicura en baño"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 2,
           "name": "Manicura SPA + esmaltado gel",
+          "description": "Refuerzo de la uña o esmaltado A",
           "price": 300,
-          "description": "Refuerzo de la uña o esmaltado A"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 3,
           "name": "Gel semipermanente manos",
+          "description": "Precio base o un solo tono incluye Manicura Express",
           "price": 150,
-          "description": "Precio base o un solo tono incluye Manicura Express"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 4,
           "name": "Pedicura Sencilla (esmalte tradicional)",
+          "description": "No incluye: Técnica bisturí, ni SPA, ni gel",
           "price": 350,
-          "description": "No incluye: Técnica bisturí, ni SPA, ni gel"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 5,
           "name": "Pedicura Especial",
+          "description": "Incluye técnica bisturí y esmalte tradicional",
           "price": 400,
-          "description": "Incluye técnica bisturí y esmalte tradicional"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 6,
           "name": "Pedicura SPA",
+          "description": "Pedicura + SPA + refuerzo de uña o gel un tono",
           "price": 400,
-          "description": "Pedicura + SPA + refuerzo de uña o gel un tono"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 7,
           "name": "Gel Semipermanente pies",
+          "description": "No incluye pedicura. Precio Base",
           "price": 300,
-          "description": "No incluye pedicura. Precio Base"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 8,
           "name": "Acripie",
+          "description": "Precio Base no incluye pedicura. Diseño A",
           "price": 350,
-          "description": "Precio Base no incluye pedicura. Diseño A"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 9,
           "name": "Pedicura Sencilla + Acripie",
+          "description": "Incluye: Diseño A y B",
           "price": 500,
-          "description": "Incluye: Diseño A y B"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 10,
           "name": "Retiro Interno",
+          "description": "SD",
           "price": 150,
-          "description": "SD"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 11,
           "name": "Retiro Externo",
+          "description": "SD",
           "price": 200,
-          "description": "SD"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 12,
-          "name": "Retoque Acrilico",
+          "name": "Retoque Acrilico ",
+          "description": "Precio Base",
           "price": 150,
-          "description": "Precio Base"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 13,
           "name": "Uñas Acrilicas",
+          "description": "Precio Base #2-3, un tono",
           "price": 350,
-          "description": "Precio Base #2-3, un tono"
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 14,
           "name": "Garritas Express",
+          "description": "Precio Base #S. Incluye Aplicación y Kit Aplicación",
           "price": 350,
-          "description": "Precio Base #S. Incluye Aplicación y Kit Aplicación"
+          "imgUrl": "/imgs/YeriUV2red.png"
      }
 ]

@@ -1,86 +1,429 @@
 [
      {
           "id": 1,
-          "name": "Manicura SPA sin esmalte",
-          "price": 200,
-          "description": "Manicura en baño"
+          "name": "Baby Boomer",
+          "price": 15,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 2,
-          "name": "Manicura SPA + esmaltado gel",
-          "price": 300,
-          "description": "Refuerzo de la uña o esmaltado A"
+          "name": "Baby Color",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 3,
-          "name": "Gel semipermanente manos",
-          "price": 150,
-          "description": "Precio base o un solo tono incluye Manicura Express"
+          "name": "Técnica de Reverso",
+          "price": 20,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 4,
-          "name": "Pedicura Sencilla (esmalte tradicional)",
-          "price": 350,
-          "description": "No incluye: Técnica bisturí, ni SPA, ni gel"
+          "name": "Fránces Sencillo",
+          "price": 5,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 5,
-          "name": "Pedicura Especial",
-          "price": 400,
-          "description": "Incluye técnica bisturí y esmalte tradicional"
+          "name": "Fránces Moderno Estético",
+          "price": 15,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 6,
-          "name": "Pedicura SPA",
-          "price": 400,
-          "description": "Pedicura + SPA + refuerzo de uña o gel un tono"
+          "name": "Fránces Medio Clásico",
+          "price": 15,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 7,
-          "name": "Gel Semipermanente pies",
-          "price": 300,
-          "description": "No incluye pedicura. Precio Base"
+          "name": "Fránces Alto",
+          "price": 20,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 8,
-          "name": "Acripie",
-          "price": 350,
-          "description": "Precio Base no incluye pedicura. Diseño A"
+          "name": "Efecto Espejo en decoración",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 9,
-          "name": "Pedicura Sencilla + Acripie",
-          "price": 500,
-          "description": "Incluye: Diseño A y B"
+          "name": "Efecto Mármol (Acrilico)",
+          "price": 15,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 10,
-          "name": "Retiro Interno",
-          "price": 150,
-          "description": "SD"
+          "name": "Efecto Mármol (Gel)",
+          "price": 20,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 11,
-          "name": "Retiro Externo",
-          "price": 200,
-          "description": "SD"
+          "name": "Efecto Aurora Uña",
+          "price": 15,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 12,
-          "name": "Retoque Acrilico",
-          "price": 150,
-          "description": "Precio Base"
+          "name": "Efecto Espejo Uña",
+          "price": 20,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 13,
-          "name": "Uñas Acrilicas",
-          "price": 350,
-          "description": "Precio Base #2-3, un tono"
+          "name": "Pigmentos En Decoración",
+          "price": 5,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      },
      {
           "id": 14,
-          "name": "Garritas Express",
-          "price": 350,
-          "description": "Precio Base #S. Incluye Aplicación y Kit Aplicación"
+          "name": "Diseño con Pigmentos",
+          "price": 15,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 15,
+          "name": "Efecto Aura",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 16,
+          "name": "Efecto Velvet en decoración",
+          "price": 5,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 17,
+          "name": "Efecto Velvet Uña",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 18,
+          "name": "Efecto Ázucar decoración",
+          "price": 5,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 19,
+          "name": "Efecto Ázucar Uña",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 20,
+          "name": "Mano Alzada Liner A",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 21,
+          "name": "Mano Alzada Liner B",
+          "price": 20,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 22,
+          "name": "Mano Alzada Flor Mini",
+          "price": 5,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 23,
+          "name": "Mano Alzada Flor A",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 24,
+          "name": "Mano Alzada Flor Premium",
+          "price": 20,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 25,
+          "name": "Mano Alzada Flores Premium",
+          "price": 40,
+          "description": "Incluye Efectos y Bisutería",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 26,
+          "name": "Mano Alzada Forma Mini",
+          "price": 5,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 27,
+          "name": "Mano Alzada Formas B",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 28,
+          "name": "Lunares Uña",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 29,
+          "name": "Mano Alzada Letra",
+          "price": 5,
+          "description": "Por Letra",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 30,
+          "name": "Animal Print",
+          "price": 15,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 31,
+          "name": "Mano Alzada Animada A",
+          "price": 10,
+          "description": "Por Figura",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 32,
+          "name": "Mano Alzada Animada Cartoon",
+          "price": 20,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 33,
+          "name": "Mano Alzada Premium",
+          "price": 40,
+          "description": "Incluye Efectos y Bisutería",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 34,
+          "name": "Bajo Relieve Mini",
+          "price": 5,
+          "description": "Por Flor",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 35,
+          "name": "Bajo Relieve Flor",
+          "price": 20,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 36,
+          "name": "Flores Bajo Relieve Premium",
+          "price": 40,
+          "description": "Incluye Bisutería y Efectos",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 37,
+          "name": "Flor Alto Relieve Mini",
+          "price": 5,
+          "description": "Sin Hojas",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 38,
+          "name": "Flor Alto Relieve A",
+          "price": 20,
+          "description": "Incluye Hojas",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 39,
+          "name": "Flores Alto Relieve Premium",
+          "price": 50,
+          "description": "Incluye Efectos y Bisutería",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 40,
+          "name": "Piedra S",
+          "price": 2,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 41,
+          "name": "Piedra M",
+          "price": 4,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 42,
+          "name": "Piedra G",
+          "price": 6,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 43,
+          "name": "Balines",
+          "price": 2,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 44,
+          "name": "Dije A",
+          "price": 15,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 45,
+          "name": "Dije B",
+          "price": 20,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 46,
+          "name": "Cadena",
+          "price": 25,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 47,
+          "name": "Foil",
+          "price": 15,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 48,
+          "name": "Hoja de Oro",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 49,
+          "name": "Sticker",
+          "price": 5,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 50,
+          "name": "Acetatos",
+          "price": 3,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 51,
+          "name": "Tattoo",
+          "price": 5,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 52,
+          "name": "Naturaleza Muerta",
+          "price": 5,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 53,
+          "name": "Flakes Uña",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 54,
+          "name": "Estampados Sello",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 55,
+          "name": "Efecto Mármol Sello",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 56,
+          "name": "Relieve Gel",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 57,
+          "name": "Relieve Gel Formas",
+          "price": 20,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 58,
+          "name": "Relieve Gel Flor",
+          "price": 30,
+          "description": "Incluye Efectos o Bisutería",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 59,
+          "name": "Relieve Premium Uña",
+          "price": 50,
+          "description": "Cartoon, Moderno, Animales. Incluye Efectos y Decoraciones",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 60,
+          "name": "Efecto Ojo de Gato",
+          "price": 10,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
+     },
+     {
+          "id": 61,
+          "name": "Efecto Blooming",
+          "price": 15,
+          "description": "SD",
+          "imgUrl": "/imgs/YeriUV2red.png"
      }
 ]
