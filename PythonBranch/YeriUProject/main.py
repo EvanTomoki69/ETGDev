@@ -27,3 +27,5 @@ billing_window.title("Buscador de productos")
 
 # Window size
 billing_window.geometry("600x400")
+
+
