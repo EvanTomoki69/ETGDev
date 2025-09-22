@@ -16,9 +16,6 @@ export function Navbar () {
                          <Nav.Link to="/services" as={NavLink}>
                          Servicios
                          </Nav.Link>
-                         <Nav.Link to="/designs" as={NavLink}>
-                         Diseños
-                         </Nav.Link>
                     </Nav>
                     {cartQuantity > 0&& (
                     <Button 

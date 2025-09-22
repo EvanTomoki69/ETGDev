@@ -1,5 +1,6 @@
 import { Offcanvas, Stack } from "react-bootstrap";
 import { useShoppingCart } from "../context/ShoppingCartContext";
+import { CartItem } from "./CartItem";
 
 type ShoppingCartProps = {
      isOpen: boolean
